@@ -125,3 +125,6 @@ body {
 .card-text {
   line-height: 1.5;
 }
+.card-image-top {
+  max-height: 150px;
+}
