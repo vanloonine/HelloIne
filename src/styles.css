@@ -109,7 +109,11 @@ body {
   padding: 20px;
   color: #4babe1;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 14px;
   text-decoration: underline;
   margin-top: 20px;
+}
+
+.card-text {
+  line-height: 1.5;
 }
